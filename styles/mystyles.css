@@ -1,0 +1,19 @@
+h1{
+    font-style:italic;
+    font-stretch: narrower;
+}
+
+a{
+    font-size:medium;
+}
+body{
+    background-color: steelblue;
+}
+li{
+    text-decoration: underline;
+}
+.imagescentered{
+
+    margin-left: 200px;
+    margin-right: 200px;
+}
