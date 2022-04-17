@@ -19,8 +19,8 @@ li{
 }
 .textcentered{
     align-self: center;
-    position: fixed;
-    width: 500px;
+    width: 550px;
+    flex-wrap: wrap;
 }
 
 div{
@@ -30,10 +30,16 @@ div{
 }
 
 .content{
-    justify-items:center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .video1{
     width: auto;
-    margin: 50px;
-    justify-content: center;
+    margin-top: 15px;
+    margin-left: 270px;
+    margin-right: 200px;
+    align-items: center;
+}
+.jumpto{
+    width: 8%;
 }
