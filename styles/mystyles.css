@@ -29,8 +29,11 @@ div{
     margin: auto;
 }
 
+.content{
+    justify-items:center;
+}
 .video1{
     width: auto;
     margin: 50px;
-    align-content: center;
+    justify-content: center;
 }
