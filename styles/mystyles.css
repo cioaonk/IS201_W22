@@ -22,3 +22,7 @@ li{
     position: fixed;
     width: 500px;
 }
+
+div{
+    text-shadow:  1.1px;
+}
