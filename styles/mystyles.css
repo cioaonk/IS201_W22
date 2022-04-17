@@ -32,4 +32,5 @@ div{
 .video1{
     width: auto;
     margin: 50px;
+    align-content: center;
 }
