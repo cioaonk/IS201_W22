@@ -20,4 +20,5 @@ li{
 .textcentered{
     align-self: center;
     position: fixed;
+    width: 500px;
 }
