@@ -25,4 +25,11 @@ li{
 
 div{
     text-shadow:  1.1px;
+    width:auto;
+    margin: auto;
+}
+
+.video1{
+    width: auto;
+    margin: 50px;
 }
