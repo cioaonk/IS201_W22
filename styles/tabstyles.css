@@ -1,6 +1,7 @@
 body{
     background-color: steelblue; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
 }
 
 .common{
@@ -12,7 +13,7 @@ body{
     top: 5px;
     left: 5px;
     right: 5px;
-    height: 100px;
+    height: 80px;
     z-index: 2;
     border-bottom: solid 1px #555555;
     align-self: end;
@@ -54,4 +55,7 @@ body{
 
 .spanHeader{
     float:right;
+}
+a:visited{
+    color:white;
 }
